@@ -2,7 +2,7 @@
     <img width="75" src="https://github.com/FCL-Team/FoldCraftLauncher/raw/main/FCL/src/main/res/drawable/img_app.png"></img>
 </div>
 
-<h1 align="center">Fold Craft Launcher</h1>
+<h1 align="center">Fold Craft Launcher服务器直装版</h1>
 
 Fold Craft Launcher启动器，服务器直装版
 
